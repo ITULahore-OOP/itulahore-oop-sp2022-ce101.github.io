@@ -13,13 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Just the Class
-tagline: A Jekyll template for course websites
-description: A modern, highly customizable, responsive Jekyll template for course websites
-author: Kevin Lin
-baseurl: '/just-the-class' # the subpath of your site, e.g. /blog
-url: 'https://kevinl.info' # the base hostname & protocol for your site, e.g. http://example.com
+title: Object Oriented Programming CE
+tagline: Spring 2022 - CE101 - OOP
+description: In contrast to procedural programming, object-oriented programming is about identifying and creating objects. They have both functions and data, this help in encapsulating functionality.
+  Object Oriented Programming (OOP) is the most commonly used mode of computer programming owing to its construction and ability to break down complex problem into simpler components. In this course, C++ language is used to teach the fundamentals of OOP.
+author: Usama Bin Shakeel
+baseurl: '/SP2022-CE101' # the subpath of your site, e.g. /blog
+url: 'https://ubs.dev' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+logo: "/assets/images/ubs-itu.png"
 
 # Theme settings
 remote_theme: pmarsceill/just-the-docs@v0.3.3
@@ -28,10 +30,9 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Kevin Lin:
-    - 'https://kevinl.info'
-  Just the Class on GitHub:
-    - 'https://github.com/kevinlin1/just-the-class'
+  Usama Bin Shakeel:
+    - 'https://ubs.dev'
+
 footer_content:
 
 # Collections for website data
@@ -40,6 +41,7 @@ collections:
   modules:
   schedules:
   announcements:
+  students:
 # Default layouts for each collection type
 defaults:
   - scope:
@@ -47,7 +49,13 @@ defaults:
       type: staffers
     values:
       layout: staffer
-      subpath: '/assets/images/'
+      subpath: '/assets/images/staff/'
+  - scope:
+      path: ''
+      type: students
+    values:
+      layout: staffer
+      subpath: '/assets/images/students/'
   - scope:
       path: ''
       type: modules
