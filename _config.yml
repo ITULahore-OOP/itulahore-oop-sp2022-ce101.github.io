@@ -83,4 +83,4 @@ compress_html:
 plugins:
   - jekyll-seo-tag
 
-theme: jekyll-theme-hacker
+theme: jekyll-theme-cayman
