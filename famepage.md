@@ -13,3 +13,7 @@ A listing of all students who have performed best during each week
 {% for student in site.students %}
 {{ student }}
 {% endfor %}
+
+
+
+## Overall Top 3 Performers 

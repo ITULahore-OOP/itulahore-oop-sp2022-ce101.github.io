@@ -5,4 +5,3 @@ email: nadir.abbas@itu.edu.pk
 photo: nadir.jpg
 ---
 
-I like teaching Computer Science!

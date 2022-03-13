@@ -69,6 +69,8 @@ schedule:
       - name: TA Appointment Slots
         start: 12:45 PM
         end: 1:45 PM
+        link: "www.google.com"
+    
 
   - name: Friday
     events:

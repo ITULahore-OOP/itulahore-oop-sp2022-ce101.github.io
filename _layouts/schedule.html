@@ -19,11 +19,14 @@
         {% assign height = end | minus: start | times: 40 | divided_by: 30 %}
         <li class="schedule-event {% if event.class %}{{ event.class }}{% else %}{{ event.name | slugify }}{% endif %}"
             style="top: {{ top }}px; height: {{ height }}px;">
+
           <div class="name">{{ event.name }}</div>
+
           <div class="time">{{ event.start }}–{{ event.end }}</div>
           {% if event.location %}
           <div class="location">{{ event.location }}</div>
           {% endif %}
+
         </li>
       {% endfor %}
       </ul>
