@@ -22,10 +22,13 @@ timeline:
 schedule:
   - name: Monday 
     events:
-      - name: Office Hours
-        start: 12:00 PM
-        end: 1:00 PM
-        location: Level 4
+      - name: UBS Appointment Slots
+        start: 11:45 AM
+        end: 12:45 PM
+      - name: TA Appointment Slots
+        start: 12:45 PM
+        end: 1:45 PM
+    
   - name: Tuesday
     events:
       - name: Lecture
@@ -36,16 +39,20 @@ schedule:
         start: 10:00 AM
         end: 11:45 AM
         location: Programming Lab Level 4
-      - name: Office Hours
-        start: 12:00 PM
-        end: 1:00 PM
-        location: Level 4
+      - name: UBS Appointment Slots
+        start: 11:45 AM
+        end: 12:45 PM
+      - name: TA Appointment Slots
+        start: 12:45 PM
+        end: 1:45 PM
   - name: Wednesday
     events:
-      - name: Office Hours
-        start: 12:00 PM
-        end: 1:00 PM
-        location: Level 4
+      - name: UBS Appointment Slots
+        start: 11:45 AM
+        end: 12:45 PM
+      - name: TA Appointment Slots
+        start: 12:45 PM
+        end: 1:45 PM
   - name: Thursday
     events:
       - name: Lecture
@@ -56,15 +63,16 @@ schedule:
         start: 10:00 AM
         end: 11:45 AM
         location: Programming Lab Level 4
-      - name: Office Hours
-        start: 12:00 PM
-        end: 1:00 PM
-        location: Level 4
+      - name: UBS Appointment Slots
+        start: 11:45 AM
+        end: 12:45 PM
+      - name: TA Appointment Slots
+        start: 12:45 PM
+        end: 1:45 PM
 
   - name: Friday
     events:
-      - name: Office Hours
-        start: 12:00 PM
-        end: 1:00 PM
-        location: Level 4 
+      - name: UBS Appointment Slots
+        start: 11:45 AM
+        end: 12:45 PM
 ---

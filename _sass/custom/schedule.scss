@@ -100,10 +100,15 @@
       background-color: $purple-000;
     }
 
-    &.office-hours {
+    &.ubs-appointment-slots {
       background-color: $purple-000;
 
     }
+    &.ta-appointment-slots {
+      background-color: $red-000;
+
+    }
+
 
     &.lab {
       background-color: $green-000;
