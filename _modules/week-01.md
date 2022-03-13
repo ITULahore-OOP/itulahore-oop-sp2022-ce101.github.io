@@ -1,23 +1,23 @@
 ---
-title: Introduction to Java
+title: Recap for Computing and Fundamentals
 ---
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
+Mar 8
+: **Theory**{: .label .schedule-event.lecture } [Introduction & Github](#)
+  : [Book1 1.1](#)
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
+Mar 8
+: **Lab**{: .label .label-green } Week 1 : Lab Task A
+  : [Task](#)
 
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
+Mar 10
+  : **Theory**{: .label .schedule-event.lecture } [Arrays & Pointers](#)
+    : [Book1 1.1](#)
 
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
+Mar 10 
+  : **Lab**{: .label .label-green } Week 1 : Lab Task B 
+    : [Task](#)
 
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+Mar 13
+  : **Assignment**{: .label .label-red } Intro to Java
+    : [Assignment](#)

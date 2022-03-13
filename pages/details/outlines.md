@@ -13,11 +13,9 @@ description: >-
 
 
 ## Theory
-{% assign picURL = site.baseurl | append: "/assets/images/course/theory-breakdown.png" %}
-![image]({{picURL}})
+[Tentative Course Outline](#){: .btn .btn-outline .h6}
 
 
 ## Lab
-{% assign picURL = site.baseurl | append: "/assets/images/course/lab-breakdown.png" %}
-![image]({{picURL}})
+[Tentative Course Outline](#){: .btn .btn-outline .h6}
 

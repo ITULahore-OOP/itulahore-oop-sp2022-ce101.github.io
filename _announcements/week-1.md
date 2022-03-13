@@ -1,10 +1,15 @@
 ---
 title: Week 1 Announcement
 week: 1
-date: 2019-04-08
+date: 2022-03-07
 ---
 
-1. Create a [new repository based on Just the Class](https://github.com/kevinlin1/just-the-class/generate).
-1. Configure a [publishing source for GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages). Your course website is now live!
-1. Update `_config.yml` with your course information.
-1. Edit and create `.md` [Markdown files](https://guides.github.com/features/mastering-markdown/) to add your content.
+1. Week 1 Lab Task A : Deadline [8th March 2022, 11:45 am](#). 
+1. Week 1 Lab Task B : Deadline [10th March 2022, 11:45 am](#). 
+1. Week 1 Assignment : Deadline [13th March 2022, 11:59 pm](#),
+1. Quiz in both lectures  
+1. Details of them are available in calendar section
+
+Late submissions 
+* Labs with 75% maximum credit till 11:59 pm of same day, No late submission after that. 
+* No late submissions acceptable for assignment. 
