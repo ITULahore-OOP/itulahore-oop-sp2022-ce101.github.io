@@ -28,6 +28,9 @@ schedule:
       - name: TA Appointment Slots
         start: 12:45 PM
         end: 1:45 PM
+      - name: Lab Missing Evaluations
+        start: 2:00 PM
+        end: 5:00 PM
     
   - name: Tuesday
     events:

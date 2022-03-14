@@ -109,7 +109,10 @@
 
     }
 
+    &.lab-missing-evaluations {
+      background-color: $orange-000;
 
+    }
     &.lab {
       background-color: $green-000;
     }
