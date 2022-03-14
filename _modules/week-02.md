@@ -1,5 +1,5 @@
 ---
-title: Week2: Recap for Computing Fundamentals & Programming
+title: Week 2 - Recap for Computing Fundamentals & Programming
 ---
 
 Mar 15

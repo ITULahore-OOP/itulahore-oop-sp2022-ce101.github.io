@@ -1,5 +1,5 @@
 ---
-title: Week3: Recap for Computing Fundamentals & Programming
+title: Week 3 - Recap for Computing Fundamentals & Programming
 ---
 
 Mar 22
