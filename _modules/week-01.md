@@ -24,7 +24,6 @@ Mar 10
 [//]: # (: [Task]&#40;#&#41;, [Solution]&#40;#&#41;)
 
 Mar 13
-: **Assignment**{: .label .label-red } Assignment 1 
-: [Assignment](https://classroom.github.com/a/dwE_cSnc)
+: **Assignment**{: .label .label-red } [Assignment 1](https://classroom.github.com/a/dwE_cSnc) 
 
 [//]: # (, [Solution]&#40;#&#41;)
