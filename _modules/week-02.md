@@ -12,8 +12,8 @@ Mar 15
 
 [//]: # (: [Solution]&#40;&#41; )
 
-Mar 15
-: **Assignment**{: .label .label-red } [Assignment 2](https://classroom.github.com/a/ZhZSEx3d) Due Sunday 20th Mar
+Mar 17
+: **Assignment**{: .label .label-red } Assignment 2 
 
 [//]: # (:  [Solution]&#40;#&#41;)
 
