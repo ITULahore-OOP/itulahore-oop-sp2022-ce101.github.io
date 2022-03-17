@@ -18,14 +18,13 @@ Mar 17
 [//]: # (:  [Solution]&#40;#&#41;)
 
 
-
 Mar 17
-: **Theory**{: .label .schedule-event.lecture } [File input & output](#)
+: **Theory**{: .label .schedule-event.lecture } [File input & output](https://drive.google.com/file/d/1ZOL7Vl1GrK_fTbUghv-bIiYaGZGwqEJ0/view?usp=sharing)
 
 [//]: # (: [Reading Material]&#40;#&#41; ,   [Quiz with Solution]&#40;#&#41;)
 
 Mar 17 
-: **Lab**{: .label .label-green } Week 2 : Lab Task B 
+: **Lab**{: .label .label-green } Week 2 : [Lab Task B](https://classroom.github.com/a/S5k9Mt1c) 
 
 [//]: # (: [Task]&#40;#&#41;, [Solution]&#40;#&#41;)
 
