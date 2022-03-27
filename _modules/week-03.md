@@ -1,9 +1,13 @@
 ---
 title: Week 3 - Recap for Computing Fundamentals & Programming
 ---
+Mar 21: 
 Timetable changed
+
+
 Mar 23
 : Lecture Cancelled due to 23rd March holiday (Make-up on March 28th) 
+
 
 Mar 24
 : **Theory**{: .label .schedule-event.lecture } [Recursion](https://drive.google.com/file/d/1PVL8do_SjmqVYXLHVL4sJJIogxgx-BH4/view?usp=sharing)

@@ -1,5 +1,5 @@
 ---
-title: Week 3 - Recap for Computing Fundamentals & Programming
+title: Week 4 - Object Oriented Programming Basics
 ---
 Mar 30
 : **Theory**{: .label .schedule-event.lecture } Introduction to Classes
