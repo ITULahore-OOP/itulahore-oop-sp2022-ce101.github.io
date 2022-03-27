@@ -1,12 +1,12 @@
 ---
-title: Week 2 Announcement
-week: 2
-date: 2022-03-14
+title: Week 4 Announcement
+week: 4
+date: 2022-03-28
 ---
 
-1. Week 2 Lab Task A : Deadline [15th March 2022, 11:45 am](#). 
-1. Week 2 Lab Task B : Deadline [17th March 2022, 11:45 am](#). 
-1. Week 2 Assignment : Deadline [20th March 2022, 11:59 pm](#),
+1. Week 4 Lab Task A : Deadline [30th March 2022, 11:45 am](#). 
+1. Week 4 Lab Task B : Deadline [31st March 2022, 11:45 am](#). 
+1. Week 4 Assignment : Deadline [3rd April 2022, 11:59 pm](#),
 1. Quiz in both lectures  
 1. Details of them are available in calendar section
 
