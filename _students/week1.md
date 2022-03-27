@@ -1,7 +1,7 @@
 ---
-name: Your Name
+name: Ifrah Batool
 role: Week 1
-email: youremail@itu.edu.pk
-photo: yourpicture.png
+email: bsce21011@itu.edu.pk
+photo: bsce21011.jpg
 ---
 Week 1
