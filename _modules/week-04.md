@@ -7,7 +7,7 @@ Mar 30
 [//]: # (: [Reading Material]&#40;#&#41; , [Quiz with Solution]&#40;#&#41;)
 
 Mar 30
-: **Lab**{: .label .label-green } Week 3 : Lab Task A
+: **Lab**{: .label .label-green } Week 4 : Lab Task A
 
 [//]: # (: [Task]&#40;#&#41;, [Solution]&#40;#&#41;)
 
@@ -17,11 +17,11 @@ Mar 31
 [//]: # (: [Reading Material]&#40;#&#41; ,   [Quiz with Solution]&#40;#&#41;)
 
 Mar 31 
-: **Lab**{: .label .label-green } Week 3 : Lab Task B 
+: **Lab**{: .label .label-green } Week 4 : Lab Task B 
 
 [//]: # (: [Task]&#40;#&#41;, [Solution]&#40;#&#41;)
 
 Apr 3
-: **Assignment**{: .label .label-red } Assignment 3 
+: **Assignment**{: .label .label-red } Assignment 4 
 
 [//]: # (: [Assignment]&#40;#&#41;, [Solution]&#40;#&#41;)
