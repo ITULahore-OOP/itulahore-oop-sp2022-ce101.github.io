@@ -1,8 +1,8 @@
 ---
 title: Week 3 - Recap for Computing Fundamentals & Programming
 ---
-Mar 21: 
-Timetable changed
+Mar 21
+: Timetable changed
 
 
 Mar 23
