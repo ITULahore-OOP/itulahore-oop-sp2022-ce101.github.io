@@ -25,7 +25,7 @@ Mar 28
 [//]: # (: [Reading Material]&#40;#&#41; ,   [Quiz with Solution]&#40;#&#41;)
 
 Mar 28 
-: **Lab**{: .label .label-green } Week 3 : Lab Task B 
+: **Lab**{: .label .label-green }**Make-up**{: .label .label-yellow } Week 3 : Lab Task B 
 
 [//]: # (: [Task]&#40;#&#41;, [Solution]&#40;#&#41;)
 
