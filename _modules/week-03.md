@@ -20,7 +20,7 @@ Mar 24
 [//]: # (: [Task]&#40;#&#41;, [Solution]&#40;#&#41;)
 
 Mar 28
-: **Theory**{: .label .schedule-event.lecture }**Make-up**{: .label .label-yellow } [Structs](https://drive.google.com/file/d/1vPNFE2TfexN90LcVnCH6GKq99ucIKmni/view?usp=sharing)
+: **Theory**{: .label .schedule-event.lecture }**Make-up**{: .label .label-yellow } [Structs](https://drive.google.com/file/d/130uX8upv6JceSN26HfXWTxZ8RPWnv7qa/view?usp=sharing)
 
 [//]: # (: [Reading Material]&#40;#&#41; ,   [Quiz with Solution]&#40;#&#41;)
 
