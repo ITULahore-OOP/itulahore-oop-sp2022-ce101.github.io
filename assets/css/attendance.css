@@ -1,0 +1,86 @@
+.loader {
+    border: 5px solid #f3f3f3;
+    border-radius: 50%;
+    border-top: 5px solid #3498db;
+    width: 50px;
+    height: 50px;
+    position: relative;
+    left: 40%;
+    -webkit-animation: spin 2s linear infinite; /* Safari */
+    animation: spin 2s linear infinite;
+  }
+  
+  /* Safari */
+  @-webkit-keyframes spin {
+    0% { -webkit-transform: rotate(0deg); }
+    100% { -webkit-transform: rotate(360deg); }
+  }
+  
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+  .inputFieldStyle {
+    border: 1px solid #ede7e7 ;
+    height: 33.58px;
+    border-radius: 8px;
+    padding: 0px 10px;
+    margin-right: 6px;
+  }
+
+  .liStyle {
+    border-bottom: 1px solid #ede7e7; 
+    padding-bottom: 6px; 
+    margin-bottom: 6px
+  }
+
+  .width33 {
+    width: 33.33%
+  }
+
+  .text-white {
+    color: #ffffff
+  }
+
+  .btlr {
+    border-top-left-radius: 8px;
+  }
+  
+  .btrr {
+    border-top-right-radius: 8px;
+  }
+
+  .lighterGreen {
+    background-color: #d6f8e9;
+  }
+  .lighterBlue {
+    background-color: #d6e8f9;
+  }
+
+  .p-tb-8 {
+    padding: 8px 0px;
+  }
+
+  .border-b-blue {
+    border-bottom: 1px solid #2869e6; 
+  }
+  
+  .border-b-green {
+    border-bottom: 1px solid #009c7b; 
+  }
+
+  .border-left-green {
+    border-left: 0.5px solid #009c7b; 
+  }
+  
+  .border-right-green {
+    border-right: 0.5px solid #009c7b; 
+  }
+  
+  .border-right-blue {
+    border-right: 0.5px solid #2869e6; 
+  }
+  
+  .border-left-blue {
+    border-left: 0.5px solid #2869e6; 
+  }
